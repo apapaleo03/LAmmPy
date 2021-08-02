@@ -1,5 +1,5 @@
 from itertools import permutations
-from Surface import Surface
+from lammpy.Surface import Surface
 import numpy as np
 from astropy.coordinates import cartesian_to_spherical, spherical_to_cartesian
 

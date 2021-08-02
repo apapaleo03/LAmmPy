@@ -1,7 +1,7 @@
 from ovito.io import import_file
 from ovito.modifiers import ConstructSurfaceModifier, InvertSelectionModifier, DeleteSelectedModifier
 import numpy as np
-from Sphere import Sphere
+from lammpy.Sphere import Sphere
 
 
 class Surface:
